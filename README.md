@@ -7,4 +7,6 @@ I only found (and fell in love with) computer science recently, before that I wa
 
 As they say, the more you know, the more you know you don't know. I now feel that I have a good base of understanding across many fundamental computer science concepts, for example I'm confident that I could learn and become proficient in any language. The elusive 'mastery' of a language feels far off, but programming is a process of building large things out of smaller ones. Mastery will follow with experience, I truly believe. My learning plan is extensive and follows much of the ideology and layout of the OSSU repository on github: https://github.com/ossu/computer-science. I'm moving through MIT's 6.0001 course even though it's another introductory course because I believe the algorithmic practice and focus on OOP will be a great boon.
 
+I'm beginning my job-search now, and will be updating this README as time progresses.
 
+Thank you for reading, and may God bless you.

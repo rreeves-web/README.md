@@ -6,9 +6,13 @@ My learning plan has so far been heavily supplemented by [OSSU on github](https:
 
 Completed:
 [CS50x: CS50’s Introduction to Computer Science - Harvard](https://cs50.harvard.edu/x/2023/)
+
 [Introduction to Computer Science and Programming using Python 6.0001 - MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
 [How to Code: Simple Data - The University of British Columbia](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data)
+
 [How to Code: Complex Data - The University of British Columbia](https://www.edx.org/course/how-to-code-complex-data)
+
 
 In Progress:
 [Programming Languages (Parts A, B, & C) - by The University of Washington](https://www.coursera.org/learn/programming-languages-part-c)

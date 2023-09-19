@@ -1,4 +1,6 @@
 # README.md
+First, thank you for coming to this page and reading about me. That means a lot, and I want you to know that.
+
 My name is Ryan Reeves, and I've been teaching myself computer science using the ample resources available online. My goal is to become a professional software developer not only as a means to financial ends, but also to bring personal satisfaction in creating wonderful and useful software that I can call my own.
 
 

@@ -1,8 +1,8 @@
 # README.md
-I began pursuing a career in computer science almost two years ago, before that I studied education, having received a Bachelor's of Science from MTSU. I've been teaching myself computer science for over a year using the ample resources available online. I have a good understanding of basic computer science concepts, and I'm very trainable. Mastery will follow with experience. 
+My name is Ryan Reeves, and I've been teaching myself computer science using the ample resources available online. My goal is to become a professional software developer not only as a means to financial ends, but also to bring personal satisfaction in creating wonderful and useful software that I can call my own.
 
 
-My learning plan has so far been heavily supplemented by [OSSU on github](https://github.com/ossu/computer-science). Below is a list of courses completed, in progress, and those that I plan to take and complete, ordered chronologically.
+My learning plan is based on [Open Source Society University on Github](https://github.com/ossu/computer-science). Below is a list of courses completed, in-progress, and those that next on my roster, ordered chronologically.
 
 |Completed|In Progress|
 |---------|-----------|

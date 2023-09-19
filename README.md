@@ -2,7 +2,7 @@
 My name is Ryan Reeves, and I've been teaching myself computer science using the ample resources available online. My goal is to become a professional software developer not only as a means to financial ends, but also to bring personal satisfaction in creating wonderful and useful software that I can call my own.
 
 
-My learning plan is based on [Open Source Society University on Github](https://github.com/ossu/computer-science). Below is a list of courses completed, in-progress, and those that next on my roster, ordered chronologically.
+My learning plan is based on [Open Source Society University on Github](https://github.com/ossu/computer-science). In addition to these courses, I'll be building my own projects and contributing to others' open-source projects. Below is a list of courses completed, in-progress, and those that next on my roster, ordered chronologically.
 
 |Completed|In Progress|
 |---------|-----------|

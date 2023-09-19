@@ -4,16 +4,16 @@ I began pursuing a career in computer science almost two years ago, before that 
 
 My learning plan has so far been heavily supplemented by [OSSU on github](https://github.com/ossu/computer-science). Below is a list of courses completed, in progress, and those that I plan to take and complete, ordered chronologically.
 
-|Completed:|
-|----------|
-|[CS50x: CS50’s Introduction to Computer Science - Harvard](https://cs50.harvard.edu/x/2023/)|
+|Completed|In Progress|
+|---------|-----------|
+|[CS50x: CS50’s Introduction to Computer Science - Harvard](https://cs50.harvard.edu/x/2023/)|[Programming Languages (Parts A, B, & C) - by The University of Washington](https://www.coursera.org/learn/programming-languages-part-c)|
 |[Introduction to Computer Science and Programming using Python 6.0001 - MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)|
 |[How to Code: Simple Data - The University of British Columbia](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data)|
 |[How to Code: Complex Data - The University of British Columbia](https://www.edx.org/course/how-to-code-complex-data)|
 
 
 In Progress:
-[Programming Languages (Parts A, B, & C) - by The University of Washington](https://www.coursera.org/learn/programming-languages-part-c)
+
 
 Soon to Enroll:
 [Object-Oriented Design - The University of Alberta](https://www.coursera.org/learn/object-oriented-design)
